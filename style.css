@@ -2,6 +2,9 @@
     text-align: center;
     color: rgb(79, 79, 227);
   }
+  h3 {
+    padding-top: 7%;
+  }
   u {
     text-align: center;
     color: red;
@@ -12,4 +15,12 @@
   }
   body{
     background-color: rgb(219, 181, 219)
+  }
+
+  .box {
+    background-color: white;
+    width: 600px;
+    height: 250px;
+    margin-left: 30%;
+    margin-top: 8%;
   }
